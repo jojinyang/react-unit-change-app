@@ -1,0 +1,10 @@
+@media screen and (max-width:425px){
+    .input-wrap{
+        flex-direction: column;
+        row-gap: 1rem;
+        padding: 1rem;
+        margin: 1rem;
+        min-height: 10vw;
+        justify-content: center;
+    }
+}
